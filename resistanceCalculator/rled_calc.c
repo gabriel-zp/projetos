@@ -10,7 +10,7 @@ int main(void){
     printf("Entre com os valores da tensao, em volts, e corrente, em amperes, do led. (digite um a um)\n\n");
     scanf("%f %f", &vled, &iled);
     res = (vin-vled)/iled;
-    printf("\nA resistencia deve possuir %.3f ohms.", res);
+    printf("\nO resistor deve possuir %.3f ohms.", res);
     printf("\n\nDADOS\n\n-----------------------------------------------------------------\n|\tVIn\t|\tVLed\t|\tILed\t|\tRES\t|");
     printf("\n|---------------------------------------------------------------|\n");
     printf("|\t%.3f\t|\t%.3f\t|\t%.3f\t|\t%.3f\t|\n", vin,vled,iled,res);
