@@ -5,22 +5,10 @@ int main(void){
     int i = 0;
     printf("CALCULADORA RESISTOR DE CIRCUITO COM LED v1.0\n\n");
     printf("------------------------\n");
-    printf("Entre com o valor da tensao de entrada <em volts>\n\n");
-    scanf("%f",&vin);
-    for(i=0;i<=2;i++){
-        switch(i){
-            case 1:
-                printf("\nEntre com o corrente do led <em amperes>\n\n");
-                scanf("%f",&iled);
-                break;
-            case 2:
-                printf("\nEntre com o tensao do led <em volts>\n\n");
-                scanf("%f",&vled);
-                break;
-            default:
-                break;     
-        }
-    }
+    printf("\n\nEntre com o valor da tensao de entrada <em volts>\n\n");
+    scanf("%f",&vin);   
+    printf("Entre com os valores da tensao, em volts, e corrente, em amperes, do led. (digite um a um)\n\n");
+    scanf("%f %f", &vled, &iled);
     res = (vin-vled)/iled;
     printf("\nA resistencia deve possuir %.3f ohms.", res);
     printf("\n\nDADOS\n\n-----------------------------------------------------------------\n|\tVIn\t|\tVLed\t|\tILed\t|\tRES\t|");
