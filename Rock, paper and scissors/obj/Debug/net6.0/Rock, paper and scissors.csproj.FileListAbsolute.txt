@@ -1,0 +1,15 @@
+D:\C# Projects\Rock, paper and scissors\bin\Debug\net6.0\Rock, paper and scissors.exe
+D:\C# Projects\Rock, paper and scissors\bin\Debug\net6.0\Rock, paper and scissors.deps.json
+D:\C# Projects\Rock, paper and scissors\bin\Debug\net6.0\Rock, paper and scissors.runtimeconfig.json
+D:\C# Projects\Rock, paper and scissors\bin\Debug\net6.0\Rock, paper and scissors.dll
+D:\C# Projects\Rock, paper and scissors\bin\Debug\net6.0\Rock, paper and scissors.pdb
+D:\C# Projects\Rock, paper and scissors\obj\Debug\net6.0\Rock, paper and scissors.csproj.AssemblyReference.cache
+D:\C# Projects\Rock, paper and scissors\obj\Debug\net6.0\Rock, paper and scissors.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Rock, paper and scissors\obj\Debug\net6.0\Rock, paper and scissors.AssemblyInfoInputs.cache
+D:\C# Projects\Rock, paper and scissors\obj\Debug\net6.0\Rock, paper and scissors.AssemblyInfo.cs
+D:\C# Projects\Rock, paper and scissors\obj\Debug\net6.0\Rock, paper and scissors.csproj.CoreCompileInputs.cache
+D:\C# Projects\Rock, paper and scissors\obj\Debug\net6.0\Rock, paper and scissors.dll
+D:\C# Projects\Rock, paper and scissors\obj\Debug\net6.0\refint\Rock, paper and scissors.dll
+D:\C# Projects\Rock, paper and scissors\obj\Debug\net6.0\Rock, paper and scissors.pdb
+D:\C# Projects\Rock, paper and scissors\obj\Debug\net6.0\Rock, paper and scissors.genruntimeconfig.cache
+D:\C# Projects\Rock, paper and scissors\obj\Debug\net6.0\ref\Rock, paper and scissors.dll
